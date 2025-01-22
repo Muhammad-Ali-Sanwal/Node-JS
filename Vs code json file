@@ -1,0 +1,41 @@
+{
+  "workbench.startupEditor": "none",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 20,
+  "debug.terminal.clearBeforeReusing": true,
+  "terminal.integrated.copyOnSelection": true,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorStyle": "line",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorWidth": 3,
+  "editor.renderWhitespace": "all",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorStyleInactive": "line",
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.smoothScrolling": true,
+  "terminal.integrated.tabs.defaultIcon": "console",
+  "extensions.ignoreRecommendations": true,
+  "editor.fontFamily": "Consolas,Ubuntu Mono,'Fira Code','Quicksand',Verdana,'Droid Sans Mono', 'monospace', monospace",
+  "workbench.colorCustomizations": {
+    "tab.activeBackground": "#05e7d44f",
+    "activityBar.background": "#00000038",
+    "sideBar.background": "#00000038",
+    "editor.background": "#000000",
+    "editor.wordHighlightBorder": "#585151",
+    "editorWidget.border": "#ff0202",
+    "editorWidget.background": "#000000",
+    "editorWidget.foreground": "#51ff00"
+  },
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.settings.applyToAllProfiles": [
+    "editor.fontSize"
+  ],
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.iconTheme": "eq-material-theme-icons",
+  "git.openRepositoryInParentFolders": "never"
+}
